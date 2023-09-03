@@ -1,0 +1,12 @@
+{
+  "name": "wzml-x",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <a href=\"https://github.com/weebzone/WZML\">\r         <kbd>\r             <img width=\"250\" src=\"https://graph.org/file/639fe4239b78e5862b302.jpg\" alt=\"WZML-X Logo\">\r         </kbd>\r     </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
